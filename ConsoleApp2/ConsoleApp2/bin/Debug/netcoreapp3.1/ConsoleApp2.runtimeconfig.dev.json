@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\belik-ea\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\belik-ea\\.nuget\\packages"
+    ]
+  }
+}
